@@ -1,0 +1,6 @@
+﻿{
+  "appId": "Your WebApp ID",
+  "urls": [
+    "http://localhost:5000"
+  ]
+}
